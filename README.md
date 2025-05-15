@@ -1,6 +1,6 @@
 # 👨‍💻 Olajide Ojo – QA Engineer Portfolio
 
-Welcome to my QA portfolio! I'm a Product QA Engineer with hands-on experience in mobile automation (Appium), web testing (Cypress), API testing (Postman), and performance testing (JMeter). I’m passionate about building robust, scalable test frameworks and ensuring product quality across platforms.
+Welcome to my QA portfolio! I'm a Senior QA Engineer with hands-on experience in mobile automation (Appium), web testing (Cypress), API testing (Postman), and performance testing (JMeter). I’m passionate about building robust, scalable test frameworks and ensuring product quality across platforms.
 
 ---
 
@@ -18,7 +18,7 @@ Welcome to my QA portfolio! I'm a Product QA Engineer with hands-on experience i
 ### 1. **Mobile Automation Framework – Appium + WebdriverIO**
 - **Description**: End-to-end mobile automation for Android and iOS using WebdriverIO with Appium.
 - **Highlights**:
-  - Built scalable Page Object Model structure.
+  - Built a scalable Page Object Model structure.
   - Integrated Allure Reporter for test reports.
   - Handled native app permissions and gestures.
 - **Tools**: Appium, WebdriverIO, TypeScript, Allure, Android Studio, Xcode
@@ -26,32 +26,21 @@ Welcome to my QA portfolio! I'm a Product QA Engineer with hands-on experience i
 
 ---
 
-### 2. **Web UI Automation – Cypress Framework**
-- **Description**: UI regression testing framework for a web-based cash management system.
+### 2. **Mobile API Automation – Cypress Framework**
+- **Description**: API regression testing framework for a mobile-based cash management system.
 - **Highlights**:
-  - Covered 100% major user flows and edge cases.
-  - Parallelized test execution using GitHub Actions.
+  - Covered 80% of major user flows and edge cases.
 - **Tools**: Cypress, JavaScript, Allure, GitHub Actions
 - **Repo**: [GitHub Link](#)
 
 ---
 
 ### 3. **API Testing – Postman Collection**
-- **Description**: API testing and validation using Postman for internal cash transfer APIs.
+- **Description**: API testing and validation using Postman for Randy Booksatore's Sample APIs.
 - **Highlights**:
-  - Authenticated flows with pre-request scripts and environment variables.
+  - Authenticated flows with post-request scripts and environment variables.
   - Automated tests with Newman CLI and CI integration.
 - **Tools**: Postman, Newman, JSON Schema Validation
-- **Repo**: [GitHub Link](#)
-
----
-
-### 4. **Performance Testing – JMeter**
-- **Description**: Load and performance testing for transaction endpoints.
-- **Highlights**:
-  - Simulated 1,000 concurrent users with ramp-up strategy.
-  - Analyzed throughput, latency, and bottlenecks.
-- **Tools**: Apache JMeter, CSV Data Config, Summary Report
 - **Repo**: [GitHub Link](#)
 
 ---
@@ -63,20 +52,21 @@ Welcome to my QA portfolio! I'm a Product QA Engineer with hands-on experience i
 - **CI/CD**: GitHub Actions, Jenkins
 - **Platforms**: Android Studio, Xcode
 - **Reporting**: Allure, HTML Reports
+- **Testing Practices**: Manual Testing, API Testing (RESTful services), Mobile Testing (iOS & Android), Functional, Regression, Integration Testing
 
 ---
 
 ## 📄 Resume
 
-Download my [Resume (PDF)](./Olajide_Ojo_Resume.pdf)
+Download my [Resume (PDF)](./Olajide_Ojo_QA_Engineer_Resume.pdf)
 
 ---
 
 ## 🔗 Connect with Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/olajideojo)
-- 💻 [GitHub](https://github.com/olajideojo)
-- 📫 Email: [your-email@example.com](mailto:your-email@example.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ojo-olajide/)
+- 💻 [GitHub](https://github.com/OlajideTechie)
+- 📫 Email: [your-email@example.com](mailto:oolajide91@gmail.com)
 
 ---
 
