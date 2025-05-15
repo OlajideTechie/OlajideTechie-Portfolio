@@ -1,6 +1,6 @@
-# 👨‍💻 Olajide Ojo – QA Engineer Portfolio
+# 👨‍💻 Olajide Ojo
 
-Welcome to my QA portfolio! I'm a Senior QA Engineer with hands-on experience in mobile automation (Appium), web testing (Cypress), API testing (Postman), and performance testing (JMeter). I’m passionate about building robust, scalable test frameworks and ensuring product quality across platforms.
+I am a QA Engineering Leader who strongly focuses on building scalable, reliable, and maintainable test automation frameworks across Web, Mobile, and API platforms. My career spans high-impact roles in FinTech, Digital Payments, and Lending, where I’ve helped deliver secure, high-quality products through a strategic and hands-on approach to quality engineering. I thrive in fast-moving environments where quality and innovation intersect and am passionate about mentoring teams, streamlining QA processes, and championing engineering excellence.
 
 ---
 
@@ -8,7 +8,7 @@ Welcome to my QA portfolio! I'm a Senior QA Engineer with hands-on experience in
 
 - 💼 QA Engineer with experience in cross-functional teams.
 - 🔧 Skilled in Appium, WebdriverIO, Cypress, Postman, JMeter, MySQL.
-- 📱 Tested and automated apps for both Android and iOS.
+- 📱 Tested and automated mobile apps for both Android and IOS.
 - 🚀 Currently setting up a QA automation framework for a new Marketplace initiative.
 
 ---
@@ -16,26 +16,16 @@ Welcome to my QA portfolio! I'm a Senior QA Engineer with hands-on experience in
 ## 📂 Projects
 
 ### 1. **Mobile Automation Framework – Appium + WebdriverIO**
-- **Description**: End-to-end mobile automation for Android and iOS using WebdriverIO with Appium.
+- **Description**: End-to-end mobile automation for Android using WebdriverIO with Appium.
 - **Highlights**:
   - Built a scalable Page Object Model structure.
   - Integrated Allure Reporter for test reports.
-  - Handled native app permissions and gestures.
-- **Tools**: Appium, WebdriverIO, TypeScript, Allure, Android Studio, Xcode
+- **Tools**: Appium, WebdriverIO, TypeScript, Allure, Android Studio
 - **Repo**: [GitHub Link](#)
 
 ---
 
-### 2. **Mobile API Automation – Cypress Framework**
-- **Description**: API regression testing framework for a mobile-based cash management system.
-- **Highlights**:
-  - Covered 80% of major user flows and edge cases.
-- **Tools**: Cypress, JavaScript, Allure, GitHub Actions
-- **Repo**: [GitHub Link](#)
-
----
-
-### 3. **API Testing – Postman Collection**
+### 2. **API Testing – Postman Collection**
 - **Description**: API testing and validation using Postman for Randy Booksatore's Sample APIs.
 - **Highlights**:
   - Authenticated flows with post-request scripts and environment variables.
@@ -47,11 +37,11 @@ Welcome to my QA portfolio! I'm a Senior QA Engineer with hands-on experience in
 
 ## 🛠️ Skills & Tools
 
-- **Languages**: JavaScript, TypeScript, Python (beginner)
+- **Languages**: JavaScript, TypeScript, Python
 - **Frameworks**: WebdriverIO, Cypress, JMeter, Postman
 - **CI/CD**: GitHub Actions, Jenkins
-- **Platforms**: Android Studio, Xcode
-- **Reporting**: Allure, HTML Reports
+- **Platforms**: Android Studio, Xcode, Browserstack, API Swagger Docs
+- **Reporting**: Allure, HTML Reports, Newman Reporter
 - **Testing Practices**: Manual Testing, API Testing (RESTful services), Mobile Testing (iOS & Android), Functional, Regression, Integration Testing
 
 ---
@@ -66,8 +56,8 @@ Download my [Resume (PDF)](./Olajide_Ojo_QA_Engineer_Resume.pdf)
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ojo-olajide/)
 - 💻 [GitHub](https://github.com/OlajideTechie)
-- 📫 Email:(oolajide91@gmail.com)
+- 📫 Email:(mailto:oolajide91@gmail.com)
 
 ---
 
-> “Quality means doing it right when no one is looking.” – Henry Ford
+> “Quality First At All Times.” – Olajide Ojo
