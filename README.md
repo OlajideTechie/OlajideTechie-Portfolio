@@ -66,7 +66,7 @@ Download my [Resume (PDF)](./Olajide_Ojo_QA_Engineer_Resume.pdf)
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ojo-olajide/)
 - 💻 [GitHub](https://github.com/OlajideTechie)
-- 📫 Email: [your-email@example.com](mailto:oolajide91@gmail.com)
+- 📫 Email: [Email](mailto:oolajide91@gmail.com)
 
 ---
 
