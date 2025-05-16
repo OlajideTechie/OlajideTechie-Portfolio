@@ -16,22 +16,22 @@ I am a QA Engineering Leader who strongly focuses on building scalable, reliable
 ## 📂 Projects
 
 ### 1. **Mobile Automation Framework – Appium + WebdriverIO**
-- **Description**: End-to-end mobile automation for Android using WebdriverIO with Appium.
+- **Description**: End-to-end mobile automation for Android using WebdriverIO with Appium and Typescript.
 - **Highlights**:
   - Built a scalable Page Object Model structure.
   - Integrated Allure Reporter for test reports.
 - **Tools**: Appium, WebdriverIO, TypeScript, Allure, Android Studio
-- **Repo**: [GitHub Link](#)
+- **Repo**: [GitHub Link](https://github.com/OlajideTechie/Webdriverio-Mobile-Automation)
 
 ---
 
-### 2. **API Testing – Postman Collection**
-- **Description**: API testing and validation using Postman for Randy Booksatore's Sample APIs.
+### 2. **API Testing – Cypress**
+- **Description**: API testing and validation using Cypress for Cash Management APIs.
 - **Highlights**:
-  - Authenticated flows with post-request scripts and environment variables.
-  - Automated tests with Newman CLI and CI integration.
-- **Tools**: Postman, Newman, JSON Schema Validation
-- **Repo**: [GitHub Link](#)
+  - Authenticated flows with request scripts and environment variables.
+  - Automated tests with Cypress.
+- **Tools**: Cypress, Mochawesome Reporter
+- **Repo**: [GitHub Link](https://github.com/OlajideTechie/cash-managment-api-test)
 
 ---
 
