@@ -23,8 +23,8 @@ I am a QA Engineering Leader who strongly focuses on building scalable, reliable
   - Worked with the Postman mock server.
 - **Tools**: Postman, Allure Reporter, Jenkins
 - **Repo**: [GitHub Link](https://github.com/OlajideTechie/Randy-Bookstore-API--Test.git)
-- **AllureReporter**![Allure API Test Result](./screenshots/Allure-Report.png)
-- **Jenkins**![Jenkins Test Result](./screenshots/Jenkins-Report.png)
+- ![Allure API Test Result](./screenshots/Allure-Report.png)
+- ![Jenkins Test Result](./screenshots/Jenkins-Report.png)
 
 ---
 
