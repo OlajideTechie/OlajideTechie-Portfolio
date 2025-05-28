@@ -15,13 +15,16 @@ I am a QA Engineering Leader who strongly focuses on building scalable, reliable
 
 ## 📂 Projects
 
-### 1. **Mobile Automation Framework – Appium + WebdriverIO**
-- **Description**: End-to-end mobile automation for Android using WebdriverIO with Appium and Typescript.
+### 1. **API Testing – Postman & Newman**
+- **Description**: API testing and validation using Postman for Randy Bookstore APIs.
 - **Highlights**:
-  - Built a scalable Page Object Model structure.
-  - Integrated Allure Reporter for test reports.
-- **Tools**: Appium, WebdriverIO, TypeScript, Allure, Android Studio
-- **Repo**: [GitHub Link](https://github.com/OlajideTechie/Webdriverio-Mobile-Automation)
+  - Authenticated flows with request scripts.
+  - Automated tests with Postman.
+  - Worked with the Postman mock server.
+- **Tools**: Postman, Allure Reporter, Jenkins
+- **Repo**: [GitHub Link](https://github.com/OlajideTechie/Randy-Bookstore-API--Test.git)
+- **AllureReporter**![Allure API Test Result](./screenshots/homepage.png)
+- **Jenkins**![Jenkins Test Result](./screenshots/homepage.png)
 
 ---
 
@@ -31,7 +34,17 @@ I am a QA Engineering Leader who strongly focuses on building scalable, reliable
   - Authenticated flows with request scripts and environment variables.
   - Automated tests with Cypress.
 - **Tools**: Cypress, Mochawesome Reporter
-- **Repo**: [GitHub Link](https://github.com/OlajideTechie/cash-managment-api-test)
+- **Repo**: [GitHub Link](https://github.com/OlajideTechie/cash-managment-api-test.git)
+
+  ---
+
+### 3. **Mobile Automation Framework – Appium + WebdriverIO**
+- **Description**: End-to-end mobile automation for Android using WebdriverIO with Appium and Typescript.
+- **Highlights**:
+  - Built a scalable Page Object Model structure.
+  - Integrated Allure Reporter for test reports.
+- **Tools**: Appium, WebdriverIO, TypeScript, Allure, Android Studio
+- **Repo**: [GitHub Link](https://github.com/OlajideTechie/Webdriverio-Mobile-Automation.git)
 
 ---
 
@@ -56,7 +69,7 @@ Download my [Resume (PDF)](./Olajide_Ojo_QA_Engineer_Resume.pdf)
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ojo-olajide/)
 - 💻 [GitHub](https://github.com/OlajideTechie)
-- 📫 Email:(mailto:oolajide91@gmail.com)
+- 📫 [Email](mailto:oolajide91@gmail.com)
 
 ---
 
