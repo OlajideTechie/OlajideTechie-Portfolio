@@ -1,4 +1,13 @@
-<link rel="stylesheet" href="./assets/css/custom.css">
+---
+title: Olajide Ojo
+---
+
+<style>
+/* Hide the GitHub "View on GitHub" header link */
+a[href*="github.com"][class*="Header-link"] {
+  display: none !important;
+}
+</style>
 
 # 👨‍💻 Olajide Ojo
 
