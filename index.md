@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="./assets/css/custom.css">
+
 # 👨‍💻 Olajide Ojo
 
 I am a QA Engineering Leader who strongly focuses on building scalable, reliable, and maintainable test automation frameworks across Web, Mobile, and API platforms. My career spans high-impact roles in FinTech, Digital Payments, and Lending, where I’ve helped deliver secure, high-quality products through a strategic and hands-on approach to quality engineering. I thrive in fast-moving environments where quality and innovation intersect and am passionate about mentoring teams, streamlining QA processes, and championing engineering excellence.
