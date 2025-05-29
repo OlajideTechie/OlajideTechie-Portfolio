@@ -27,8 +27,8 @@ I am a QA Engineering Leader who strongly focuses on building scalable, reliable
   - Worked with the Postman mock server.
 - **Tools**: Postman, Allure Reporter, Jenkins
 - **Repo**: [GitHub Link](https://github.com/OlajideTechie/Randy-Bookstore-API--Test.git)
-- ![Allure API Test Result](./screenshots/Allure-Report.png)
-- ![Jenkins Test Result](./screenshots/Jenkins-Report.png)
+- **AllureReporter**![Allure API Test Result](./screenshots/Allure-Report.png)
+- **JenkinsResult**![Jenkins Test Result](./screenshots/Jenkins-Report.png)
 
 ---
 
@@ -39,6 +39,8 @@ I am a QA Engineering Leader who strongly focuses on building scalable, reliable
   - Automated tests with Cypress.
 - **Tools**: Cypress, Mochawesome Reporter
 - **Repo**: [GitHub Link](https://github.com/OlajideTechie/cash-managment-api-test.git)
+- **MochawesomeReporter**![Mochawesome API Result](./screenshots/mochawesome-reporter-cash-manament.png)
+- **GitHubRepoConfig**![Repo Config](./screenshots/cash-management-api-test-repo-config.png)
 
   ---
 
