@@ -38,7 +38,7 @@ I am a QA Engineering Leader who strongly focuses on building scalable, reliable
   - Authenticated flows with request scripts and environment variables.
   - Automated tests with Cypress.
 - **Tools**: Cypress, Mochawesome Reporter
-- **Repo**: [GitHub Link](https://github.com/OlajideTechie/cash-managment-api-test.git)
+- **Repo**: [GitHub Link](https://github.com/OlajideTechie/cash-managment-api-test.git) PS: This is a private repository for security reasons
 - **MochawesomeReporter**![Mochawesome API Result](./screenshots/mochawesome-reporter-cash-manament.png)
 - **GitHubRepoConfig**![Repo Config](./screenshots/cash-management-api-test-repo-config.png)
 
