@@ -1,13 +1,6 @@
 ---
-title: Olajide Ojo
+layout: default
 ---
-
-<style>
-/* Hide the GitHub "View on GitHub" header link */
-a[href*="github.com"][class*="Header-link"] {
-  display: none !important;
-}
-</style>
 
 # 👨‍💻 Olajide Ojo
 
